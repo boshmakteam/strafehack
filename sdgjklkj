@@ -1,5 +1,12 @@
 echo "# strafehack" >> README.md
 git init
+adklgf;asdlkg
+adgkljo;ashl;jkh
+asd
+hasd
+ha
+sdh
+sdah
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/boshmakteam/strafehack.git
